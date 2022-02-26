@@ -1,0 +1,16 @@
+{
+  "name": "hammad-personal-site",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhnaeem/personal-site.git"
+  },
+  "author": "Muhammad Hammad",
+  "bugs": {
+    "url": "https://github.com/mhnaeem/personal-site/issues"
+  },
+  "homepage": "https://github.com/mhnaeem/personal-site#readme"
+}
